@@ -73,9 +73,9 @@ def main():
     dados_norm = normalizar_dados(dados)
     
     # Inicialização dos pesos da rede
+
     # Camada Oculta: 3 neurônios com 3 entradas cada (bias, IMC, glicemia)
     pesos_camada_oculta = np.random.uniform(-1, 1, (3, 3))
-    
     # Camada de Saída: 2 neurônios com 4 entradas cada (bias + 3 neurônios ocultos)
     pesos_camada_saida = np.random.uniform(-1, 1, (2, 4))
     
@@ -192,7 +192,7 @@ def main():
             elif previsto_diabetes and not real_diabetes:
                 fp += 1
                 resultado = "(FP)"
-            else:  # not previsto_diabetes and real_diabetes
+            else:
                 fn += 1
                 resultado = "(FN)"
             
