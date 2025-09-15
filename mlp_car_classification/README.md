@@ -86,6 +86,21 @@ else:
 
 * Se output[1] > output[0] → classificado como Econômico
 
+## 📉 Convergência do Erro durante o Treinamento 
+
+Durante o processo de treinamento da rede neural MLP, foi monitorado o **Erro Quadrático Médio (EQM)** a cada época. 
+
+Abaixo está o gráfico gerado:
+![Convergência do Erro](images/convergencia_erro.png) 
+
+### 🧠 Interpretação: 
+
+* A rede mostra uma rápida diminuição do erro nas primeiras épocas, indicando aprendizado eficiente. 
+* A partir de certo ponto, o erro estabiliza, indicando que a rede alcançou uma boa generalização. 
+* Esse comportamento é típico de um bom processo de treinamento com dados bem normalizados e arquitetura balanceada. 
+
+> O gráfico acima demonstra que a rede neural foi capaz de **aprender a classificar carros em Premium vs Econômico** com base em suas características (ano, preço e quilometragem).
+
 ## 📊 Métricas de Desempenho
 
 Após o treinamento e validação do modelo MLP, as seguintes métricas foram calculadas com base nos dados de teste:
