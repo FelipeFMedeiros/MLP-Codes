@@ -252,10 +252,20 @@ def main():
                 for j in range(1, 6):
                     camada_saida[i] += camada_oculta[j-1] * pesos_camada_saida[i][j]
             
+            # Normalizar saída para 0 ou 1
+            if camada_saida[1] >= 0.5:
+                camada_saida[1] = 1
+            else:
+                camada_saida[1] = 0
+            if camada_saida[0] >= 0.5:
+                camada_saida[0] = 1
+            else:
+                camada_saida[0] = 0
+
             # Determinar classes
             previsto_premium = camada_saida[0] > camada_saida[1]
             real_premium = y[idx][0] == 1
-            
+
             classe_prevista = "PREMIUM" if previsto_premium else "ECONÔMICO"
             classe_real = "PREMIUM" if real_premium else "ECONÔMICO"
             
