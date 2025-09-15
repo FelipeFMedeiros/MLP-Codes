@@ -1,0 +1,152 @@
+make,model,year,price,mileage,category
+Toyota,Corolla,2020,20000,15000,sedan
+Honda,Civic,2019,22000,12000,sedan
+Ford,Mustang,2021,30000,5000,coupe
+Chevrolet,Impala,2018,25000,30000,sedan
+BMW,3 Series,2020,35000,10000,sedan
+Audi,A4,2021,37000,8000,sedan
+Mercedes-Benz,C-Class,2019,40000,12000,sedan
+Nissan,Altima,2020,24000,15000,sedan
+Volkswagen,Passat,2018,23000,20000,sedan
+Subaru,Outback,2021,32000,7000,suv
+Jeep,Wrangler,2020,35000,10000,suv
+Toyota,RAV4,2019,28000,15000,suv
+Honda,CR-V,2021,29000,5000,suv
+Ford,Explorer,2018,33000,25000,suv
+Chevrolet,Tahoe,2020,60000,15000,suv
+Kia,Sorento,2019,26000,20000,suv
+Hyundai,Tucson,2021,27000,8000,suv
+Porsche,Cayenne,2020,70000,5000,suv
+Tesla,Model 3,2021,40000,3000,sedan
+Mazda,CX-5,2019,25000,18000,suv
+Toyota,Camry,2018,21000,25000,sedan
+Honda,Accord,2020,24000,14000,sedan
+Ford,F-150,2019,35000,20000,truck
+Chevrolet,Silverado,2021,37000,8000,truck
+BMW,X5,2020,55000,12000,suv
+Audi,Q5,2019,42000,15000,suv
+Mercedes-Benz,GLC,2021,48000,6000,suv
+Nissan,Rogue,2018,20000,30000,suv
+Volkswagen,Jetta,2020,21000,10000,sedan
+Subaru,Forester,2019,26000,17000,suv
+Jeep,Grand Cherokee,2021,40000,7000,suv
+Toyota,Highlander,2020,35000,12000,suv
+Honda,Pilot,2018,32000,25000,suv
+Ford,Escape,2019,24000,18000,suv
+Chevrolet,Equinox,2021,26000,9000,suv
+Kia,Sportage,2020,23000,14000,suv
+Hyundai,Santa Fe,2019,25000,16000,suv
+Porsche,Macan,2021,65000,4000,suv
+Tesla,Model S,2020,80000,7000,sedan
+Mazda,3,2018,18000,22000,sedan
+Toyota,Yaris,2019,15000,17000,sedan
+Honda,Fit,2021,17000,6000,sedan
+Ford,Edge,2020,31000,11000,suv
+Chevrolet,Blazer,2019,32000,15000,suv
+BMW,5 Series,2021,45000,5000,sedan
+Audi,A6,2020,47000,9000,sedan
+Mercedes-Benz,E-Class,2018,50000,20000,sedan
+Nissan,Sentra,2019,17000,18000,sedan
+Volkswagen,Tiguan,2021,27000,7000,suv
+Subaru,Crosstrek,2020,24000,12000,suv
+Jeep,Compass,2019,22000,16000,suv
+Toyota,4Runner,2021,42000,5000,suv
+Honda,HR-V,2020,21000,13000,suv
+Ford,Ranger,2019,29000,17000,truck
+Chevrolet,Colorado,2021,31000,8000,truck
+Kia,Optima,2020,20000,14000,sedan
+Hyundai,Elantra,2019,18000,18000,sedan
+Porsche,Panamera,2021,90000,3000,sedan
+Tesla,Model X,2020,90000,6000,suv
+Mazda,6,2018,19000,21000,sedan
+Toyota,Prius,2019,23000,16000,sedan
+Honda,Insight,2021,25000,4000,sedan
+Ford,Bronco,2020,35000,9000,suv
+Chevrolet,Traverse,2019,34000,15000,suv
+BMW,X3,2021,43000,6000,suv
+Audi,Q7,2020,60000,8000,suv
+Mercedes-Benz,GLA,2018,32000,22000,suv
+Nissan,Versa,2019,14000,20000,sedan
+Volkswagen,Atlas,2021,34000,7000,suv
+Subaru,Ascent,2020,37000,11000,suv
+Jeep,Renegade,2019,21000,17000,suv
+Toyota,Avalon,2021,37000,4000,sedan
+Honda,Odyssey,2020,32000,12000,van
+Ford,Transit,2019,35000,18000,van
+Chevrolet,Express,2021,37000,9000,van
+Kia,Rio,2020,16000,13000,sedan
+Hyundai,Accent,2019,15000,17000,sedan
+Porsche,911,2021,110000,2000,coupe
+Tesla,Model Y,2020,50000,7000,suv
+Mazda,MX-5,2018,25000,15000,coupe
+Toyota,Sienna,2019,34000,16000,van
+Honda,Ridgeline,2021,38000,5000,truck
+Ford,Maverick,2020,22000,9000,truck
+Chevrolet,Malibu,2019,21000,15000,sedan
+BMW,X1,2021,35000,6000,suv
+Audi,A3,2020,32000,9000,sedan
+Mercedes-Benz,CLA,2018,33000,21000,sedan
+Nissan,Frontier,2019,27000,17000,truck
+Volkswagen,Golf,2021,23000,7000,sedan
+Subaru,Impreza,2020,21000,12000,sedan
+Jeep,Gladiator,2019,37000,16000,truck
+Toyota,Land Cruiser,2021,85000,4000,suv
+Honda,Passport,2020,34000,11000,suv
+Ford,Expedition,2019,50000,15000,suv
+Chevrolet,Suburban,2021,65000,8000,suv
+Kia,Stinger,2020,33000,13000,sedan
+Hyundai,Sonata,2019,20000,17000,sedan
+Porsche,Taycan,2021,120000,3000,sedan
+Tesla,Model Z,2020,70000,6000,suv
+Mazda,CX-9,2018,27000,20000,suv
+Toyota,Grand Highlander,2023,43000,4000,suv
+Honda,Prologue,2024,48000,2000,suv
+Ford,Mach-E,2022,47000,7000,suv
+Chevrolet,Blazer EV,2024,56000,1000,suv
+BMW,i4,2023,56000,3000,sedan
+Audi,Q4 e-tron,2022,53000,6000,suv
+Mercedes-Benz,EQS,2023,105000,2500,sedan
+Nissan,Ariya,2023,47000,3500,suv
+Volkswagen,ID.4,2022,42000,8000,suv
+Subaru,Solterra,2023,45000,3000,suv
+Jeep,Grand Cherokee 4xe,2022,61000,5000,suv
+Toyota,BZ4X,2023,43000,2000,suv
+Honda,Civic Type R,2023,44000,3500,sedan
+Ford,Bronco Raptor,2022,78000,4000,suv
+Chevrolet,Corvette E-Ray,2024,104000,1000,coupe
+BMW,iX,2023,85000,2500,suv
+Audi,e-tron GT,2022,105000,3000,sedan
+Mercedes-Benz,GLB,2023,43000,4000,suv
+Nissan,Z,2023,42000,3500,coupe
+Volkswagen,Taos,2022,27000,9000,suv
+Subaru,WRX,2023,32000,5000,sedan
+Jeep,Wagoneer,2022,65000,6000,suv
+Toyota,Sequoia,2023,61000,3000,suv
+Honda,HR-V,2023,26000,4000,suv
+Ford,F-150 Lightning,2023,60000,2000,truck
+Chevrolet,Silverado EV,2024,72000,1000,truck
+BMW,2 Series Gran Coupe,2022,39000,7000,sedan
+Audi,Q8,2023,73000,2500,suv
+Mercedes-Benz,GLS,2024,86000,1500,suv
+Nissan,Pathfinder,2023,41000,3500,suv
+Volkswagen,ID.Buzz,2024,65000,1000,van
+Subaru,Legacy,2023,26000,5000,sedan
+Jeep,Recon,2024,60000,1000,suv
+Toyota,Crown,2023,41000,3000,sedan
+Honda,Accord Hybrid,2023,34000,4000,sedan
+Ford,Explorer Hybrid,2022,51000,6000,suv
+Chevrolet,Trax,2024,23000,2000,suv
+BMW,7 Series,2023,95000,2500,sedan
+Audi,A5 Sportback,2022,47000,7000,sedan
+Mercedes-Benz,CLE,2024,57000,1000,coupe
+Nissan,Leaf,2023,32000,5000,sedan
+Volkswagen,Arteon,2022,44000,6000,sedan
+Subaru,Outback Wilderness,2023,41000,3500,suv
+Jeep,Avenger,2024,35000,1000,suv
+Toyota,GR Corolla,2023,37000,3000,hatchback
+Honda,Element,2024,32000,1000,suv
+Ford,Maverick Hybrid,2023,27000,4000,truck
+Chevrolet,Trailblazer,2023,26000,5000,suv
+BMW,X7,2023,78000,3000,suv
+Audi,Q3,2023,39000,4000,suv
+Mercedes-Benz,EQA,2024,57000,1000,suv
